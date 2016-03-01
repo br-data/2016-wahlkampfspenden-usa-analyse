@@ -1,0 +1,377 @@
+delegate,crp-id,type,state,party,donations,sum,memberships
+"Markey, Ed",N00000270,Senator,MA,D,6,47500,17
+"Hagan, Kay R",N00029617,Senator,NC,D,8,32000,0
+"Toomey, Pat",N00001489,Senator,PA,R,9,30350,9
+"Cornyn, John",N00024852,Senator,TX,R,8,30000,9
+"Upton, Fred",N00004133,Representative,MI,R,6,29500,7
+"Warner, Mark",N00002097,Senator,VA,D,9,28600,11
+"Pryor, Mark",N00013823,Senator,AR,D,7,28500,0
+"Alexander, Lamar",N00009888,Senator,TN,R,7,25500,16
+"Coons, Chris",N00031820,Senator,DE,D,7,24000,17
+"Wyden, Ron",N00007724,Senator,OR,D,7,24000,14
+"Frelinghuysen, Rodney",N00000684,Representative,NJ,R,5,23500,4
+"Pallone, Frank Jr",N00000781,Representative,NJ,D,6,22500,0
+"Reed, Jack",N00000362,Senator,RI,D,6,22500,19
+"Gerlach, Jim",N00025025,Representative,PA,R,8,22000,0
+"Pitts, Joe",N00001633,Representative,PA,R,4,21500,5
+"Cochran, Thad",N00003328,Senator,MS,R,6,21300,18
+"McConnell, Mitch",N00003389,Senator,KY,R,6,21000,13
+"Portman, Rob",N00003682,Senator,OH,R,5,20500,12
+"Capito, Shelley Moore",N00009771,Senator,WV,R,3,20000,16
+"Whitfield, Ed",N00003467,Representative,KY,R,5,20000,4
+"Matsui, Doris O",N00027459,Representative,CA,D,4,19500,3
+"McCarthy, Kevin",N00028152,Representative,CA,R,7,19000,0
+"Blackburn, Marsha",N00003105,Representative,TN,R,5,18500,6
+"Shuster, Bill",N00013770,Representative,PA,R,5,18500,9
+"Dent, Charlie",N00026171,Representative,PA,R,4,18300,0
+"Stivers, Steve",N00029574,Representative,OH,R,4,18100,5
+"Roskam, Peter",N00004719,Representative,IL,R,8,18000,4
+"Murphy, Tim",N00024992,Representative,PA,R,5,18000,4
+"Lance, Leonard",N00000898,Representative,NJ,R,4,18000,4
+"Udall, Mark",N00008051,Senator,CO,D,6,18000,0
+"Cantor, Eric",N00035267,Representative,VA,R,5,17500,0
+"Boehner, John",N00003675,Representative,OH,R,3,17500,0
+"Booker, Cory",N00035267,Senator,NJ,D,6,17000,14
+"Begich, Mark",N00029901,Senator,AK,D,6,16500,0
+"Ellmers, Renee",N00031513,Representative,NC,R,6,16500,4
+"Schumer, Charles E",N00001093,Senator,NY,D,3,16500,17
+"Roberts, Pat",N00005285,Senator,KS,R,7,16200,18
+"Camp, Dave",N00008086,Representative,MI,R,7,16000,0
+"Shimkus, John M",N00004961,Representative,IL,R,6,16000,0
+"Hensarling, Jeb",N00024922,Representative,TX,R,3,15500,6
+"Meehan, Patrick",N00031134,Representative,PA,R,4,15250,4
+"Tiberi, Patrick J",N00009699,Representative,OH,R,4,15000,3
+"Cassidy, Bill",N00030245,Senator,LA,R,2,15000,16
+"Enzi, Mike",N00006249,Senator,WY,R,5,15000,0
+"Schrader, Kurt",N00030071,Representative,OR,D,4,14500,3
+"Himes, Jim",N00029070,Representative,CT,D,3,14500,0
+"Blumenthal, Richard",N00031685,Senator,CT,D,4,14500,16
+"Reid, Harry",N00009922,Senator,NV,D,5,14500,1
+"Shaheen, Jeanne",N00024790,Senator,NH,D,4,14500,16
+"Barrow, John",N00026080,Representative,GA,D,4,14000,0
+"Kingston, Jack",N00002656,Senator,GA,R,2,14000,0
+"Gardner, Cory",N00030780,Senator,CO,R,4,13500,15
+"Dingell, Debbie",N00036149,Representative,MI,D,3,13500,5
+"Paulsen, Erik",N00029391,Representative,MN,R,7,13250,4
+"Hatch, Orrin G",N00009869,Senator,UT,R,2,13000,16
+"Pompeo, Mike",N00030744,Representative,KS,R,5,12500,7
+"Terry, Lee",N00005321,Representative,NE,R,3,12500,0
+"Keating, Bill",N00031933,Representative,MA,D,2,12500,0
+"Fudge, Marcia L",N00030490,Representative,OH,D,3,12000,6
+"Scott, Tim",N00031782,Senator,SC,R,4,12000,13
+"Clyburn, James E",N00002408,Representative,SC,D,4,12000,0
+"Swalwell, Eric",N00033508,Representative,CA,D,2,12000,6
+"Luetkemeyer, Blaine",N00030026,Representative,MO,R,4,11500,6
+"Green, Gene",N00005870,Representative,TX,D,3,11500,5
+"Thune, John",N00004572,Senator,SD,R,7,11500,15
+"Eshoo, Anna",N00007335,Representative,CA,D,3,11500,2
+"Durbin, Dick",N00004981,Senator,IL,D,3,11500,0
+"Lujan, Ben R",N00029562,Representative,NM,D,3,11500,0
+"Murkowski, Lisa",N00026050,Senator,AK,R,2,11000,16
+"Smith, Adam",N00007833,Representative,WA,D,2,11000,2
+"Neal, Richard E",N00000153,Representative,MA,D,4,11000,3
+"Inhofe, James M",N00005582,Senator,OK,R,3,11000,9
+"Landrieu, Mary L",N00005395,Senator,LA,D,5,10500,0
+"Blunt, Roy",N00005195,Senator,MO,R,6,10000,16
+"Conaway, Mike",N00026041,Representative,TX,R,2,10000,0
+"Forbes, Randy",N00013799,Representative,VA,R,2,10000,6
+"Graves, Sam",N00013323,Representative,MO,R,2,10000,7
+"Rogers, Mike",N00009668,Representative,MI,R,5,10000,9
+"Isakson, Johnny",N00002593,Senator,GA,R,3,10000,13
+"Royce, Ed",N00008264,Representative,CA,R,3,9650,4
+"Brady, Kevin",N00005883,Representative,TX,R,3,9500,3
+"Price, David",N00002260,Representative,NC,D,2,9500,4
+"Bera, Ami",N00030717,Representative,CA,D,4,9500,6
+"Denham, Jeff",N00031593,Representative,CA,R,2,9500,10
+"Ayotte, Kelly",N00030980,Senator,NH,R,3,9500,14
+"Guthrie, Brett",N00029675,Representative,KY,R,3,9000,7
+"Gillibrand, Kirsten",N00027658,Senator,NY,D,2,9000,12
+"Rubio, Marco",N00030612,Senator,FL,R,1,9000,12
+"Bennet, Michael F",N00030608,Senator,CO,D,2,9000,11
+"Kelly, Mike",N00031647,Representative,PA,R,4,8750,4
+"Lucas, Frank D",N00005559,Representative,OK,R,3,8700,10
+"Collins, Susan M",N00000491,Senator,ME,R,3,8500,11
+"Gibson, Chris",N00031998,Representative,NY,R,2,8500,9
+"Jenkins, Lynn",N00029077,Representative,KS,R,5,8500,3
+"Johnson, Bill",N00032088,Representative,OH,R,4,8500,7
+"Walden, Greg",N00007690,Representative,OR,R,3,8500,2
+"Barrasso, John A",N00006236,Senator,WY,R,3,8500,0
+"Grassley, Chuck",N00001758,Senator,IA,R,3,8500,15
+"McMorris Rodgers, Cathy",N00026314,Representative,WA,R,2,8500,2
+"Leahy, Patrick",N00009918,Senator,VT,D,1,8500,15
+"Crawford, Rick",N00030770,Representative,AR,R,2,8000,0
+"Price, Tom",N00026160,Representative,GA,R,3,8000,3
+"Waters, Maxine",N00006690,Representative,CA,D,2,8000,6
+"Udall, Tom",N00006561,Senator,NM,D,3,8000,21
+"DeGette, Diana",N00006134,Representative,CO,D,4,7500,4
+"Hoyer, Steny H",N00001821,Representative,MD,D,4,7500,0
+"Olson, Pete",N00029285,Representative,TX,R,2,7500,4
+"Goodlatte, Bob",N00009154,Representative,VA,R,3,7500,4
+"Marino, Tom",N00031777,Representative,PA,R,3,7500,9
+"Manchin, Joe",N00032838,Senator,WV,D,2,7500,12
+"Gingrey, Phil",N00024760,Senator,GA,R,2,7500,0
+"Kind, Ron",N00004403,Representative,WI,D,4,7250,3
+"Butterfield, G K",N00027035,Representative,NC,D,3,7000,4
+"Fleischmann, Chuck",N00030815,Representative,TN,R,1,7000,0
+"Weber, Randy",N00033539,Representative,TX,R,1,7000,6
+"LaMalfa, Doug",N00033987,Representative,CA,R,2,7000,7
+"Pascrell, Bill Jr",N00000751,Representative,NJ,D,3,7000,0
+"Baucus, Max",N00029277,Senator,MT,D,4,7000,0
+"Kennedy, Joe III",N00034044,Representative,MA,D,4,7000,0
+"Peters, Gary",N00029277,Senator,MI,D,3,6700,10
+"Peterson, Collin",N00004558,Representative,MN,D,2,6500,1
+"Simpson, Mike",N00006263,Representative,ID,R,4,6500,0
+"Crenshaw, Ander ",N00027860,Representative,FL,R,3,6500,0
+"Gibbs, Bob",N00031128,Representative,OH,R,2,6500,7
+"Duckworth, Tammy",N00027860,Representative,IL,D,2,6500,7
+"Garamendi, John",N00030856,Representative,CA,D,1,6500,7
+"Ryan, Paul",N00004357,Representative,WI,R,3,6000,1
+"Lowey, Nita M",N00001024,Representative,NY,D,2,6000,2
+"Pittenger, Robert",N00034416,Representative,NC,R,1,6000,3
+"Welch, Peter",N00000515,Representative,VT,D,4,6000,6
+"Sanchez, Linda",N00024870,Representative,CA,D,2,6000,0
+"Yoder, Kevin",N00031502,Representative,KS,R,3,6000,4
+"Connolly, Gerry",N00029891,Representative,VA,D,2,6000,0
+"Crowley, Joseph",N00001127,Representative,NY,D,2,6000,3
+"DelBene, Suzan",N00030693,Representative,WA,D,3,6000,7
+"Waxman, Henry",N00001861,Representative,CA,D,2,6000,0
+"Conyers, John Jr",N00004029,Representative,MI,D,1,6000,0
+"Daines, Steven",N00033054,Senator,MT,R,2,6000,0
+"Meeks, Gregory W",N00001171,Representative,NY,D,3,5800,6
+"Wagner, Ann L",N00033106,Representative,MO,R,4,5800,0
+"Garrett, Scott",N00000743,Representative,NJ,R,2,5500,4
+"Doyle, Mike",N00001373,Representative,PA,D,1,5500,0
+"Lee, Barbara",N00008046,Representative,CA,D,1,5500,5
+"Kline, John",N00004436,Representative,MN,R,2,5000,4
+"Sinema, Kyrsten",N00033983,Representative,AZ,D,4,5000,3
+"Beyer, Don",N00036018,Representative,VA,D,1,5000,6
+"Bishop, Sanford",N00002674,Representative,GA,D,1,5000,4
+"Byrne, Bradley",N00035380,Representative,AL,R,1,5000,9
+"Calvert, Ken",N00007099,Representative,CA,R,1,5000,4
+"Foxx, Virginia",N00026166,Representative,NC,R,1,5000,5
+"Gowdy, Trey",N00030880,Representative,SC,R,1,5000,8
+"Latta, Robert E",N00012233,Representative,OH,R,3,5000,4
+"Ribble, Reid",N00030968,Representative,WI,R,1,5000,7
+"Matheson, Jim",N00009753,Representative,UT,D,3,5000,0
+"Carper, Tom",N00012508,Senator,DE,D,2,5000,12
+"McCaskill, Claire",N00027694,Senator,MO,D,2,5000,12
+"Courtney, Joe",N00024842,Representative,CT,D,1,5000,6
+"Esty, Elizabeth",N00033217,Representative,CT,D,1,5000,6
+"Lofgren, Zoe",N00007479,Representative,CA,D,3,5000,8
+"Peters, Scott",N00033591,Representative,CA,D,2,5000,6
+"Schock, Aaron",N00029273,Representative,IL,R,4,5000,0
+"Holding, George",N00033399,Representative,NC,R,2,5000,3
+"Issa, Darrell",N00007017,Representative,CA,R,2,5000,6
+"Becerra, Xavier",N00009774,Representative,CA,D,1,5000,2
+"Tierney, John F",N00000226,Representative,MA,D,1,5000,0
+"Kerry, John",N00025482,Senator,MA,D,1,5000,0
+"Murphy, Christopher S",N00027566,Senator,CT,D,1,5000,0
+"Ruppersberger, Dutch",N00025482,Representative,MD,D,1,5000,3
+"Carney, John",N00030736,Representative,DE,D,4,4700,3
+"Dingell, John D",N00001783,Representative,MI,D,2,4700,0
+"Crapo, Mike",N00006267,Senator,ID,R,2,4500,15
+"Kinzinger, Adam",N00030667,Representative,IL,R,2,4500,4
+"Cleaver, Emanuel",N00026790,Representative,MO,D,2,4500,3
+"McKinley, David",N00031681,Representative,WV,R,3,4500,4
+"Scalise, Steve",N00009660,Representative,LA,R,2,4500,2
+"Jeffries, Hakeem",N00033640,Representative,NY,D,2,4500,6
+"Johnson, Hank",N00027848,Representative,GA,D,1,4500,0
+"Fischer, Deb",N00033443,Senator,NE,R,2,4500,14
+"Reed, Tom",N00030949,Representative,NY,R,2,4500,4
+"Capuano, Michael E",N00000267,Representative,MA,D,2,4000,9
+"Grimm, Michael",N00031401,Representative,NY,R,2,4000,0
+"Marchant, Kenny",N00026710,Representative,TX,R,3,4000,5
+"Neugebauer, Randy",N00026043,Representative,TX,R,2,4000,10
+"Levin, Sander",N00003950,Representative,MI,D,2,4000,2
+"Ryan, Tim",N00025280,Representative,OH,D,2,4000,4
+"Scott, Austin",N00032457,Representative,GA,R,2,4000,7
+"Schwartz, Allyson",N00001579,Representative,PA,D,4,4000,0
+"Engel, Eliot L",N00001003,Representative,NY,D,2,4000,4
+"Latham, Tom",N00004227,Representative,IA,R,2,4000,0
+"Tonko, Paul",N00030196,Representative,NY,D,3,4000,6
+"Wenstrup, Brad",N00033310,Representative,OH,R,2,4000,9
+"Murray, Patty",N00007876,Senator,WA,D,2,4000,13
+"Nelson, Bill",N00009926,Senator,FL,D,2,4000,16
+"King, Pete",N00001193,Representative,NY,R,1,4000,9
+"Maloney, Carolyn B",N00000078,Representative,NY,D,1,4000,6
+"Kuster, Ann Mclane",N00030875,Representative,NH,D,3,4000,0
+"Harper, Gregg",N00029632,Representative,MS,R,2,4000,7
+"McDermott, Jim",N00034908,Representative,WA,D,1,4000,4
+"Davis, Rodney",N00034784,Representative,IL,R,1,4000,9
+"Rahall, Nick",N00002198,Representative,WV,D,2,4000,0
+"McGovern, James P",N00000179,Representative,MA,D,2,4000,5
+"Fitzpatrick, Michael G",N00027229,Representative,PA,R,2,3750,3
+"Klobuchar, Amy",N00027500,Senator,MN,D,2,3600,16
+"Horsford, Steven",N00033638,Representative,NV,D,2,3500,0
+"Kirk, Mark",N00012539,Senator,IL,R,2,3500,16
+"Andrews, Robert E",N00031877,Representative,NJ,D,1,3500,0
+"Bilirakis, Gus",N00027462,Representative,FL,R,4,3500,6
+"Bass, Karen",N00031877,Representative,CA,D,1,3500,5
+"Cohen, Steve",N00003225,Representative,TN,D,1,3500,8
+"Herrera Beutler, Jaime",N00031559,Representative,WA,R,1,3500,4
+"Thornberry, Mac",N00006052,Representative,TX,R,2,3500,1
+"Tester, Jon",N00027605,Senator,MT,D,2,3000,16
+"Collins, Chris",N00001285,Representative,NY,R,1,3000,4
+"Kildee, Dan",N00033395,Representative,MI,D,1,3000,3
+"Richmond, Cedric",N00030184,Representative,LA,D,2,3000,6
+"Walz, Timothy J",N00027467,Representative,MN,D,1,3000,7
+"Yarmuth, John A",N00028073,Representative,KY,D,1,3000,5
+"Coats, Dan",N00003845,Senator,IN,R,2,3000,6
+"Coburn, Tom",N00005601,Senator,OK,R,1,3000,0
+"Burgess, Michael",N00025219,Representative,TX,R,2,3000,7
+"Honda, Mike",N00012611,Representative,CA,D,1,3000,0
+"Israel, Steve",N00013345,Representative,NY,D,2,3000,3
+"Kilmer, Derek",N00034453,Representative,WA,D,2,3000,3
+"Christian-Christensen, Donna",N00000133,Representative,VI,D,2,3000,0
+"Grisham, Michelle Lujan",N00029400,Representative,NM,D,1,3000,6
+"Larsen, Rick",N00009759,Representative,WA,D,1,3000,6
+"Long, Billy",N00030676,Representative,MO,R,1,3000,4
+"Reichert, Dave",N00026885,Representative,WA,R,2,3000,0
+"Sessions, Pete",N00005681,Representative,TX,R,2,3000,2
+"Graham, Lindsey",N00009975,Senator,SC,R,2,3000,17
+"Smith, Adrian",N00027623,Representative,NE,R,1,3000,4
+"Costello, Ryan",N00031064,Representative,PA,R,2,3000,7
+"Lipinski, Daniel",N00027239,Representative,IL,D,2,3000,7
+"Lankford, James",N00031129,Senator,OK,R,2,3000,12
+"Duncan, John J Jr",N00003209,Representative,TN,R,1,3000,0
+"Holt, Rush",N00000860,Representative,NJ,D,1,3000,0
+"Mica, John L",N00002793,Representative,FL,R,1,3000,7
+"Foster, Bill",N00029139,Representative,IL,D,2,2800,5
+"McCaul, Michael",N00026460,Representative,TX,R,3,2500,12
+"LoBiondo, Frank A",N00000851,Representative,NJ,R,2,2500,10
+"Lummis, Cynthia",N00035007,Representative,WY,R,1,2500,7
+"Mikulski, Barbara A",N00001945,Senator,MD,D,1,2500,17
+"Joyce, David P",N00035007,Representative,OH,R,1,2500,4
+"Larson, John B",N00000575,Representative,CT,D,1,2500,4
+"Renacci, Jim",N00031127,Representative,OH,R,2,2500,0
+"Coffman, Mike",N00024753,Representative,CO,R,1,2500,6
+"Deutch, Ted",N00031317,Representative,FL,D,1,2500,7
+"Black, Diane",N00031539,Representative,TN,R,2,2500,3
+"Lewis, John",N00002577,Representative,GA,D,1,2500,4
+"Young, Todd",N00030670,Representative,IN,R,2,2500,3
+"DeLauro, Rosa L",N00000615,Representative,CT,D,1,2500,3
+"Woodall, Rob",N00032416,Representative,GA,R,1,2500,6
+"Perdue, David",N00035516,Senator,GA,R,1,2500,15
+"Zinke, Ryan K",N00035616,Representative,MT,R,1,2500,6
+"Whitehouse, Sheldon",N00027533,Senator,RI,D,1,2500,16
+"Dold, Bob",N00031103,Representative,IL,R,1,2400,0
+"Norton, Eleanor Holmes",N00001692,Representative,DC,D,1,2400,8
+"Huffman, Jared",N00033030,Representative,CA,D,1,2250,7
+"Thompson, Mike",N00007419,Representative,CA,D,2,2250,3
+"Emmer, Tom",N00035440,Representative,MN,R,1,2200,3
+"Costa, Jim",N00026341,Representative,CA,D,1,2000,6
+"Messer, Luke",N00012546,Representative,IN,R,2,2000,6
+"Ross, Dennis",N00030645,Representative,FL,R,1,2000,3
+"Kaine, Tim",N00033177,Senator,VA,D,2,2000,11
+"Culberson, John",N00009738,Representative,TX,R,1,2000,4
+"Graves, Garret",N00036135,Representative,LA,R,1,2000,7
+"Jordan, Jim",N00027894,Representative,OH,R,1,2000,7
+"Perlmutter, Edwin G",N00027510,Representative,CO,D,1,2000,0
+"Rogers, Hal",N00003473,Representative,KY,R,1,2000,1
+"Sessions, Jeff",N00003062,Senator,AL,R,1,2000,14
+"Stabenow, Debbie",N00004118,Senator,MI,D,2,2000,15
+"Capps, Lois",N00007232,Representative,CA,D,2,2000,7
+"Griffith, Morgan",N00032029,Representative,VA,R,1,2000,4
+"Hartzler, Vicky",N00031005,Representative,MO,R,1,2000,8
+"Rothfus, Keith J",N00031253,Representative,PA,R,2,2000,3
+"Turner, Michael R",N00025175,Representative,OH,R,2,2000,8
+"Van Hollen, Chris",N00013820,Representative,MD,D,3,2000,1
+"Yoho, Ted",N00033220,Representative,FL,R,1,2000,7
+"Boozman, John",N00013873,Senator,AR,R,1,2000,18
+"Stockman, Steve",N00005918,Senator,TX,R,1,2000,0
+"Castro, Joaquin",N00033316,Representative,TX,D,2,2000,6
+"Tillis, Thom",N00035492,Senator,NC,R,2,2000,15
+"Velazquez, Nydia M",N00001102,Representative,NY,D,1,2000,0
+"Clarke, Yvette D",N00026961,Representative,NY,D,1,2000,8
+"Heck, Dennis",N00031557,Representative,WA,D,1,2000,0
+"Hunter, Duncan D",N00029258,Representative,CA,R,2,2000,0
+"Rush, Bobby L",N00004887,Representative,IL,D,1,2000,4
+"Salmon, Matt",N00006446,Representative,AZ,R,2,2000,6
+"Flake, Jeff",N00009573,Senator,AZ,R,1,2000,14
+"Johnson, Ron",N00032546,Senator,WI,R,1,2000,15
+"DeFazio, Peter",N00007781,Representative,OR,D,2,2000,7
+"Perry, Scott",N00034120,Representative,PA,R,1,2000,10
+"Vitter, David",N00009659,Senator,LA,R,1,2000,14
+"Tsongas, Niki",N00029026,Representative,MA,D,1,2000,6
+"Bridenstine, James",N00033532,Representative,OK,R,1,2000,0
+"Mullin, Markwayne",N00033410,Representative,OK,R,1,2000,4
+"Barber, Ron",N00033981,Representative,AZ,D,1,2000,0
+"Huizenga, Bill",N00030673,Representative,MI,R,1,2000,3
+"Boyle, Brendan",N00035307,Representative,PA,D,1,2000,5
+"Brown, Corrine",N00002713,Representative,FL,D,1,2000,5
+"Merkley, Jeff",N00029303,Senator,OR,D,1,2000,15
+"Hayworth, Nan",N00031124,Representative,NY,R,1,1950,0
+"Schweikert, David",N00006460,Representative,AZ,R,2,1800,3
+"Moore, Gwen",N00026914,Representative,WI,D,1,1750,4
+"Duffy, Sean P",N00030967,Representative,WI,R,1,1700,4
+"Hobbs, Rudy",N00028133,Representative,MI,D,1,1500,0
+"Hastings, Alcee L",N00002884,Representative,FL,D,1,1500,3
+"Lamborn, Douglas L",N00028133,Representative,CO,R,1,1500,0
+"McKeon, Buck",N00006882,Representative,CA,R,1,1500,0
+"Griffin, Tim",N00031297,Representative,AR,R,1,1500,0
+"Napolitano, Grace",N00006789,Representative,CA,D,1,1500,6
+"Barr, Andy",N00031233,Representative,KY,R,1,1400,3
+"Miller, Gary",N00006954,Representative,CA,R,1,1400,0
+"Ose, Doug",N00007581,Representative,CA,R,1,1200,0
+"Bachus, Spencer",N00008091,Representative,AL,R,1,1000,1
+"Boustany, Charles W Jr",N00026595,Representative,LA,R,1,1000,0
+"Campbell, John",N00027565,Representative,CA,R,1,1000,0
+"Chaffetz, Jason",N00028958,Representative,UT,R,1,1000,4
+"Hastings, Doc",N00009157,Representative,WA,R,1,1000,0
+"Noem, Kristi",N00032022,Representative,SD,R,1,1000,3
+"Poe, Ted",N00026457,Representative,TX,R,1,1000,6
+"Runyan, Jon",N00031988,Representative,NJ,R,1,1000,0
+"Walorski, Jackie",N00031226,Representative,IN,R,1,1000,8
+"Braley, Bruce",N00027464,Senator,IA,D,2,1000,0
+"Aderholt, Robert B",N00003028,Representative,AL,R,1,1000,4
+"Brat, Dave",N00036013,Representative,VA,R,1,1000,7
+"Heck, Joe",N00031244,Representative,NV,R,1,1000,9
+"Hurt, Robert",N00031265,Representative,VA,R,1,1000,4
+"Lieu, Ted",N00035825,Representative,CA,D,1,1000,4
+"Pocan, Mark",N00033549,Representative,WI,D,1,1000,4
+"Bucshon, Larry",N00031227,Representative,IN,R,1,1000,4
+"Cooper, Jim",N00003132,Representative,TN,D,1,1000,7
+"Franks, Trent",N00006423,Representative,AZ,R,1,1000,6
+"Moulton, Seth",N00035431,Representative,MA,D,1,1000,6
+"Mulvaney, Mick",N00031412,Representative,SC,R,1,1000,7
+"Sewell, Terri A",N00030622,Representative,AL,D,1,1000,6
+"Thompson, Bennie G",N00003288,Representative,MS,D,1,1000,7
+"Franken, Al",N00029016,Senator,MN,D,1,1000,14
+"Heinrich, Martin",N00029835,Senator,NM,D,1,1000,10
+"Heitkamp, Heidi",N00033782,Senator,ND,D,1,1000,13
+"Hirono, Mazie K",N00028139,Senator,HI,D,1,1000,11
+"King, Angus",N00034580,Senator,ME,I,1,1000,11
+"Moran, Jerry",N00005282,Senator,KS,R,1,1000,19
+"Rounds, Mike",N00035187,Senator,SD,R,1,1000,12
+"Sasse, Ben",N00035544,Senator,NE,R,1,1000,14
+"Schatz, Brian",N00028138,Senator,HI,D,1,1000,14
+"Benishek, Dan",N00031934,Representative,MI,R,1,1000,9
+"Roybal-Allard, Lucille",N00006671,Representative,CA,D,1,1000,4
+"Flores, Bill",N00031545,Representative,TX,R,1,1000,4
+"Granger, Kay",N00008799,Representative,TX,R,1,1000,4
+"Simitian, S Joseph",N00029260,Representative,CA,D,1,1000,0
+"Stefanik, Elise",N00035523,Representative,NY,R,1,1000,7
+"Kirkpatrick, Ann",N00029260,Representative,AZ,D,1,1000,8
+"Clark, Katherine",N00035278,Representative,MA,D,1,1000,6
+"Huelskamp, Tim",N00027649,Representative,KS,R,1,1000,6
+"Kaptur, Marcy",N00003522,Representative,OH,D,1,1000,4
+"Brownley, Julia",N00034254,Representative,CA,D,1,1000,7
+"Comstock, Barbara",N00036023,Representative,VA,R,1,1000,8
+"Langevin, Jim",N00009724,Representative,RI,D,1,1000,0
+"Smith, Lamar",N00001811,Representative,TX,R,1,1000,11
+"Speier, Jackie",N00029649,Representative,CA,D,1,1000,6
+"Stewart, Chris",N00033932,Representative,UT,R,1,1000,7
+"Cruz, Ted",N00033085,Senator,TX,R,1,1000,16
+"Chabot, Steve",N00003689,Representative,OH,R,1,1000,7
+"Hudson, Richard",N00033630,Representative,NC,R,1,1000,4
+"Massie, Thomas",N00034041,Representative,KY,R,1,1000,10
+"Pastor, Ed",N00006397,Representative,AZ,D,1,1000,0
+"Schneider, Brad",N00033101,Representative,IL,D,1,1000,0
+"Thompson, Glenn",N00029736,Representative,PA,R,1,1000,10
+"Sherman, Brad",N00006897,Representative,CA,D,1,800,6
+"DeSantis, Ron",N00034746,Representative,FL,R,1,700,9
+"Gooch, Lesli E Mccollum",N00007021,Representative,CA,R,1,700,0
+"Murphy, Patrick",N00034068,Representative,FL,D,1,700,6
+"Vargas, Juan",N00007021,Representative,CA,D,1,700,5
+"Lawrence, Brenda",N00034068,Representative,MI,D,1,500,6
+"Schultz, Debbie Wasserman",N00026106,Representative,FL,D,1,0,3

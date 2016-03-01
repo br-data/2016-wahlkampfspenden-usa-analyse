@@ -1,0 +1,6938 @@
+[
+  {
+    "delegate": "Bachus, Spencer",
+    "type": "Representative",
+    "state": "AL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Barr, Andy",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 1400,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Boustany, Charles W Jr",
+    "type": "Representative",
+    "state": "LA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Camp, Dave",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Campbell, John",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Cantor, Eric",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Capuano, Michael E",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Carney, John",
+    "type": "Representative",
+    "state": "DE",
+    "party": "D",
+    "value": 700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Costa, Jim",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 2000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Dent, Charlie",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 800,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "DeSantis, Ron",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Dingell, John D",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Dold, Bob",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2400,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Duffy, Sean P",
+    "type": "Representative",
+    "state": "WI",
+    "party": "R",
+    "value": 1700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Emmer, Tom",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 2200,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Fitzpatrick, Michael G",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1750,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Foster, Bill",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 800,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Garrett, Scott",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Gooch, Lesli E Mccollum",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Grimm, Michael",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Hayworth, Nan",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 1950,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Hensarling, Jeb",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Horsford, Steven",
+    "type": "Representative",
+    "state": "NV",
+    "party": "D",
+    "value": 1500,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Huffman, Jared",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 2250,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Kelly, Mike",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 750,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Kind, Ron",
+    "type": "Representative",
+    "state": "WI",
+    "party": "D",
+    "value": 750,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Kline, John",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 2000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Lucas, Frank D",
+    "type": "Representative",
+    "state": "OK",
+    "party": "R",
+    "value": 700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Luetkemeyer, Blaine",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 2000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Marchant, Kenny",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "McCarthy, Kevin",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 500,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Meeks, Gregory W",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 800,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Messer, Luke",
+    "type": "Representative",
+    "state": "IN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Miller, Gary",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 1400,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Moore, Gwen",
+    "type": "Representative",
+    "state": "WI",
+    "party": "D",
+    "value": 1750,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Murphy, Patrick",
+    "type": "Representative",
+    "state": "FL",
+    "party": "D",
+    "value": 700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Neugebauer, Randy",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Ose, Doug",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 1200,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Paulsen, Erik",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 3250,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 500,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Ross, Dennis",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 2000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Royce, Ed",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 2650,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Ryan, Paul",
+    "type": "Representative",
+    "state": "WI",
+    "party": "R",
+    "value": 2000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Schweikert, David",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "R",
+    "value": 800,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Sherman, Brad",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 800,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Sinema, Kyrsten",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "D",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Stivers, Steve",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 600,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Thompson, Mike",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1250,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Vargas, Juan",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Wagner, Ann L",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 2300,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Alexander, Lamar",
+    "type": "Senator",
+    "state": "TN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Blunt, Roy",
+    "type": "Senator",
+    "state": "MO",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Capito, Shelley Moore",
+    "type": "Senator",
+    "state": "WV",
+    "party": "R",
+    "value": 2500,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Cochran, Thad",
+    "type": "Senator",
+    "state": "MS",
+    "party": "R",
+    "value": 800,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Crapo, Mike",
+    "type": "Senator",
+    "state": "ID",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Gardner, Cory",
+    "type": "Senator",
+    "state": "CO",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Kaine, Tim",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Kirk, Mark",
+    "type": "Senator",
+    "state": "IL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Klobuchar, Amy",
+    "type": "Senator",
+    "state": "MN",
+    "party": "D",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "McConnell, Mitch",
+    "type": "Senator",
+    "state": "KY",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Peters, Gary",
+    "type": "Senator",
+    "state": "MI",
+    "party": "D",
+    "value": 1700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Portman, Rob",
+    "type": "Senator",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Roberts, Pat",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 1700,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Tester, Jon",
+    "type": "Senator",
+    "state": "MT",
+    "party": "D",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 750,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Allianz of America"
+  },
+  {
+    "delegate": "Barrow, John",
+    "type": "Representative",
+    "state": "GA",
+    "party": "D",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Beyer, Don",
+    "type": "Representative",
+    "state": "VA",
+    "party": "D",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Bishop, Sanford",
+    "type": "Representative",
+    "state": "GA",
+    "party": "D",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Brady, Kevin",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Butterfield, G K",
+    "type": "Representative",
+    "state": "NC",
+    "party": "D",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Byrne, Bradley",
+    "type": "Representative",
+    "state": "AL",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Calvert, Ken",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Camp, Dave",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Cantor, Eric",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Carney, John",
+    "type": "Representative",
+    "state": "DE",
+    "party": "D",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Collins, Chris",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Conaway, Mike",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Crawford, Rick",
+    "type": "Representative",
+    "state": "AR",
+    "party": "R",
+    "value": 7000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Culberson, John",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "DeGette, Diana",
+    "type": "Representative",
+    "state": "CO",
+    "party": "D",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Dent, Charlie",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Dingell, Debbie",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Dingell, John D",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 4000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Fleischmann, Chuck",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 7000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Forbes, Randy",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 8000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Foxx, Virginia",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Frelinghuysen, Rodney",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Fudge, Marcia L",
+    "type": "Representative",
+    "state": "OH",
+    "party": "D",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Gowdy, Trey",
+    "type": "Representative",
+    "state": "SC",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Graves, Garret",
+    "type": "Representative",
+    "state": "LA",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Graves, Sam",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 8000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Green, Gene",
+    "type": "Representative",
+    "state": "TX",
+    "party": "D",
+    "value": 8000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Hobbs, Rudy",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 1500,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Hoyer, Steny H",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 2500,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Jordan, Jim",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Kelly, Mike",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 6000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Kildee, Dan",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Kinzinger, Adam",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Kline, John",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Latta, Robert E",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Lawrence, Brenda",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 500,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Levin, Sander",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Lowey, Nita M",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Lucas, Frank D",
+    "type": "Representative",
+    "state": "OK",
+    "party": "R",
+    "value": 6000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Luetkemeyer, Blaine",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "McCaul, Michael",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Meehan, Patrick",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 4000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Murphy, Tim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Olson, Pete",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Pallone, Frank Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Paulsen, Erik",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Perlmutter, Edwin G",
+    "type": "Representative",
+    "state": "CO",
+    "party": "D",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Peterson, Collin",
+    "type": "Representative",
+    "state": "MN",
+    "party": "D",
+    "value": 4500,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Pittenger, Robert",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 6000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Price, David",
+    "type": "Representative",
+    "state": "NC",
+    "party": "D",
+    "value": 4000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Ribble, Reid",
+    "type": "Representative",
+    "state": "WI",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Richmond, Cedric",
+    "type": "Representative",
+    "state": "LA",
+    "party": "D",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Rogers, Hal",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Rogers, Mike",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Ryan, Tim",
+    "type": "Representative",
+    "state": "OH",
+    "party": "D",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Schrader, Kurt",
+    "type": "Representative",
+    "state": "OR",
+    "party": "D",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Scott, Austin",
+    "type": "Representative",
+    "state": "GA",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Shimkus, John M",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Simpson, Mike",
+    "type": "Representative",
+    "state": "ID",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Tiberi, Patrick J",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Upton, Fred",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 9000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Wagner, Ann L",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Walz, Timothy J",
+    "type": "Representative",
+    "state": "MN",
+    "party": "D",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Weber, Randy",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 7000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Welch, Peter",
+    "type": "Representative",
+    "state": "VT",
+    "party": "D",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Whitfield, Ed",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 7000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Yarmuth, John A",
+    "type": "Representative",
+    "state": "KY",
+    "party": "D",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Alexander, Lamar",
+    "type": "Senator",
+    "state": "TN",
+    "party": "R",
+    "value": 7000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Begich, Mark",
+    "type": "Senator",
+    "state": "AK",
+    "party": "D",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Booker, Cory",
+    "type": "Senator",
+    "state": "NJ",
+    "party": "D",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Capito, Shelley Moore",
+    "type": "Senator",
+    "state": "WV",
+    "party": "R",
+    "value": 7500,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Cassidy, Bill",
+    "type": "Senator",
+    "state": "LA",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Cochran, Thad",
+    "type": "Senator",
+    "state": "MS",
+    "party": "R",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Collins, Susan M",
+    "type": "Senator",
+    "state": "ME",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Coons, Chris",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Gardner, Cory",
+    "type": "Senator",
+    "state": "CO",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Kingston, Jack",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Landrieu, Mary L",
+    "type": "Senator",
+    "state": "LA",
+    "party": "D",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Murkowski, Lisa",
+    "type": "Senator",
+    "state": "AK",
+    "party": "R",
+    "value": 6000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Pryor, Mark",
+    "type": "Senator",
+    "state": "AR",
+    "party": "D",
+    "value": 10000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Reed, Jack",
+    "type": "Senator",
+    "state": "RI",
+    "party": "D",
+    "value": 6000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Roberts, Pat",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 5000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Scott, Tim",
+    "type": "Senator",
+    "state": "SC",
+    "party": "R",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Sessions, Jeff",
+    "type": "Senator",
+    "state": "AL",
+    "party": "R",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Stabenow, Debbie",
+    "type": "Senator",
+    "state": "MI",
+    "party": "D",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Thune, John",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 1000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 3000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Wyden, Ron",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 2000,
+    "pac": "BASF Corp"
+  },
+  {
+    "delegate": "Andrews, Robert E",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 3500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Bera, Ami",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Bilirakis, Gus",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Blackburn, Marsha",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 4000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Boehner, John",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 10000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Brady, Kevin",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Camp, Dave",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Capps, Lois",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Chaffetz, Jason",
+    "type": "Representative",
+    "state": "UT",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Cleaver, Emanuel",
+    "type": "Representative",
+    "state": "MO",
+    "party": "D",
+    "value": 3500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Clyburn, James E",
+    "type": "Representative",
+    "state": "SC",
+    "party": "D",
+    "value": 1500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Conaway, Mike",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 7000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Crawford, Rick",
+    "type": "Representative",
+    "state": "AR",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Crenshaw, Ander",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "DeGette, Diana",
+    "type": "Representative",
+    "state": "CO",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Dingell, Debbie",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Ellmers, Renee",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Eshoo, Anna",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 3500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Frelinghuysen, Rodney",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 8000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 6500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Gibbs, Bob",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Gibson, Chris",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Goodlatte, Bob",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Green, Gene",
+    "type": "Representative",
+    "state": "TX",
+    "party": "D",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Griffith, Morgan",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Hartzler, Vicky",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Hastings, Doc",
+    "type": "Representative",
+    "state": "WA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Hoyer, Steny H",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Jenkins, Lynn",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 5500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Johnson, Bill",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Kelly, Mike",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Kind, Ron",
+    "type": "Representative",
+    "state": "WI",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "LaMalfa, Doug",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 4000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "LoBiondo, Frank A",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 1500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Lucas, Frank D",
+    "type": "Representative",
+    "state": "OK",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Luetkemeyer, Blaine",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Lummis, Cynthia",
+    "type": "Representative",
+    "state": "WY",
+    "party": "R",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Marino, Tom",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Matheson, Jim",
+    "type": "Representative",
+    "state": "UT",
+    "party": "D",
+    "value": 1500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "McCarthy, Kevin",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "McKinley, David",
+    "type": "Representative",
+    "state": "WV",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Murphy, Tim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 10000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Neugebauer, Randy",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Noem, Kristi",
+    "type": "Representative",
+    "state": "SD",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Pallone, Frank Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 5500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Pascrell, Bill Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Paulsen, Erik",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 0,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Peterson, Collin",
+    "type": "Representative",
+    "state": "MN",
+    "party": "D",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Pitts, Joe",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 10000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Poe, Ted",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Pompeo, Mike",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Price, Tom",
+    "type": "Representative",
+    "state": "GA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Rogers, Mike",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 4000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Rothfus, Keith J",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Runyan, Jon",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Sanchez, Linda",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Scalise, Steve",
+    "type": "Representative",
+    "state": "LA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Schrader, Kurt",
+    "type": "Representative",
+    "state": "OR",
+    "party": "D",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Schwartz, Allyson",
+    "type": "Representative",
+    "state": "PA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Scott, Austin",
+    "type": "Representative",
+    "state": "GA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Shimkus, John M",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 3500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Shuster, Bill",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Simpson, Mike",
+    "type": "Representative",
+    "state": "ID",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Smith, Adam",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Stivers, Steve",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Terry, Lee",
+    "type": "Representative",
+    "state": "NE",
+    "party": "R",
+    "value": 4500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Tiberi, Patrick J",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Turner, Michael R",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Upton, Fred",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 10000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Van Hollen, Chris",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Walden, Greg",
+    "type": "Representative",
+    "state": "OR",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Walorski, Jackie",
+    "type": "Representative",
+    "state": "IN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Welch, Peter",
+    "type": "Representative",
+    "state": "VT",
+    "party": "D",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Whitfield, Ed",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Yoder, Kevin",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Yoho, Ted",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Alexander, Lamar",
+    "type": "Senator",
+    "state": "TN",
+    "party": "R",
+    "value": 4000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Barrasso, John A",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 3500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Baucus, Max",
+    "type": "Senator",
+    "state": "MT",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Begich, Mark",
+    "type": "Senator",
+    "state": "AK",
+    "party": "D",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Blunt, Roy",
+    "type": "Senator",
+    "state": "MO",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Booker, Cory",
+    "type": "Senator",
+    "state": "NJ",
+    "party": "D",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Boozman, John",
+    "type": "Senator",
+    "state": "AR",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Braley, Bruce",
+    "type": "Senator",
+    "state": "IA",
+    "party": "D",
+    "value": 0,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Capito, Shelley Moore",
+    "type": "Senator",
+    "state": "WV",
+    "party": "R",
+    "value": 10000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Carper, Tom",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Coats, Dan",
+    "type": "Senator",
+    "state": "IN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Coburn, Tom",
+    "type": "Senator",
+    "state": "OK",
+    "party": "R",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Cochran, Thad",
+    "type": "Senator",
+    "state": "MS",
+    "party": "R",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Collins, Susan M",
+    "type": "Senator",
+    "state": "ME",
+    "party": "R",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Coons, Chris",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Durbin, Dick",
+    "type": "Senator",
+    "state": "IL",
+    "party": "D",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Enzi, Mike",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Gardner, Cory",
+    "type": "Senator",
+    "state": "CO",
+    "party": "R",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Grassley, Chuck",
+    "type": "Senator",
+    "state": "IA",
+    "party": "R",
+    "value": 4000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 4000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Hatch, Orrin G",
+    "type": "Senator",
+    "state": "UT",
+    "party": "R",
+    "value": 8500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Kingston, Jack",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 4000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Landrieu, Mary L",
+    "type": "Senator",
+    "state": "LA",
+    "party": "D",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Manchin, Joe",
+    "type": "Senator",
+    "state": "WV",
+    "party": "D",
+    "value": 5000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "McCaskill, Claire",
+    "type": "Senator",
+    "state": "MO",
+    "party": "D",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Mikulski, Barbara A",
+    "type": "Senator",
+    "state": "MD",
+    "party": "D",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Pryor, Mark",
+    "type": "Senator",
+    "state": "AR",
+    "party": "D",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Reed, Jack",
+    "type": "Senator",
+    "state": "RI",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Roberts, Pat",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Stabenow, Debbie",
+    "type": "Senator",
+    "state": "MI",
+    "party": "D",
+    "value": 1000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Stockman, Steve",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Thune, John",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 2500,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 3000,
+    "pac": "Bayer Corp"
+  },
+  {
+    "delegate": "Aderholt, Robert B",
+    "type": "Representative",
+    "state": "AL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Bera, Ami",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Bilirakis, Gus",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Blackburn, Marsha",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Brat, Dave",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Burgess, Michael",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Butterfield, G K",
+    "type": "Representative",
+    "state": "NC",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Cantor, Eric",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Carney, John",
+    "type": "Representative",
+    "state": "DE",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Castro, Joaquin",
+    "type": "Representative",
+    "state": "TX",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Clyburn, James E",
+    "type": "Representative",
+    "state": "SC",
+    "party": "D",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Connolly, Gerry",
+    "type": "Representative",
+    "state": "VA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Courtney, Joe",
+    "type": "Representative",
+    "state": "CT",
+    "party": "D",
+    "value": 5000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Crowley, Joseph",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "DeGette, Diana",
+    "type": "Representative",
+    "state": "CO",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "DelBene, Suzan",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Denham, Jeff",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Ellmers, Renee",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 1500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Engel, Eliot L",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Esty, Elizabeth",
+    "type": "Representative",
+    "state": "CT",
+    "party": "D",
+    "value": 5000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Forbes, Randy",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Frelinghuysen, Rodney",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Fudge, Marcia L",
+    "type": "Representative",
+    "state": "OH",
+    "party": "D",
+    "value": 6000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Gibbs, Bob",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Goodlatte, Bob",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Graves, Sam",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Guthrie, Brett",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Heck, Joe",
+    "type": "Representative",
+    "state": "NV",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Himes, Jim",
+    "type": "Representative",
+    "state": "CT",
+    "party": "D",
+    "value": 10000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Honda, Mike",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 3000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Hurt, Robert",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Israel, Steve",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Jenkins, Lynn",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Johnson, Bill",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Joyce, David P",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Kennedy, Joe III",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Kilmer, Derek",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Kind, Ron",
+    "type": "Representative",
+    "state": "WI",
+    "party": "D",
+    "value": 3500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Lance, Leonard",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Larson, John B",
+    "type": "Representative",
+    "state": "CT",
+    "party": "D",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Latham, Tom",
+    "type": "Representative",
+    "state": "IA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Latta, Robert E",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Lieu, Ted",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Lofgren, Zoe",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Matheson, Jim",
+    "type": "Representative",
+    "state": "UT",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Matsui, Doris O",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "McCarthy, Kevin",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 4500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "McKinley, David",
+    "type": "Representative",
+    "state": "WV",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Messer, Luke",
+    "type": "Representative",
+    "state": "IN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Murphy, Tim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 3000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Pallone, Frank Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Paulsen, Erik",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Peters, Scott",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Pitts, Joe",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Pocan, Mark",
+    "type": "Representative",
+    "state": "WI",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Pompeo, Mike",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Renacci, Jim",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Sanchez, Linda",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 3000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Schock, Aaron",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Schrader, Kurt",
+    "type": "Representative",
+    "state": "OR",
+    "party": "D",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Schwartz, Allyson",
+    "type": "Representative",
+    "state": "PA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Shimkus, John M",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Stivers, Steve",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 10000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Swalwell, Eric",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 10000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Terry, Lee",
+    "type": "Representative",
+    "state": "NE",
+    "party": "R",
+    "value": 2000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Tiberi, Patrick J",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 10000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Tonko, Paul",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Upton, Fred",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Wagner, Ann L",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Walden, Greg",
+    "type": "Representative",
+    "state": "OR",
+    "party": "R",
+    "value": 1500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Waxman, Henry",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Wenstrup, Brad",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Alexander, Lamar",
+    "type": "Senator",
+    "state": "TN",
+    "party": "R",
+    "value": 4500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Baucus, Max",
+    "type": "Senator",
+    "state": "MT",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Blumenthal, Richard",
+    "type": "Senator",
+    "state": "CT",
+    "party": "D",
+    "value": 4000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Booker, Cory",
+    "type": "Senator",
+    "state": "NJ",
+    "party": "D",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Coons, Chris",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 3000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Enzi, Mike",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 3000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Isakson, Johnny",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Kaine, Tim",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Landrieu, Mary L",
+    "type": "Senator",
+    "state": "LA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Markey, Ed",
+    "type": "Senator",
+    "state": "MA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "McConnell, Mitch",
+    "type": "Senator",
+    "state": "KY",
+    "party": "R",
+    "value": 1500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Murray, Patty",
+    "type": "Senator",
+    "state": "WA",
+    "party": "D",
+    "value": 3000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Portman, Rob",
+    "type": "Senator",
+    "state": "OH",
+    "party": "R",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Pryor, Mark",
+    "type": "Senator",
+    "state": "AR",
+    "party": "D",
+    "value": 5000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Reid, Harry",
+    "type": "Senator",
+    "state": "NV",
+    "party": "D",
+    "value": 2500,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Roberts, Pat",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Scott, Tim",
+    "type": "Senator",
+    "state": "SC",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Shaheen, Jeanne",
+    "type": "Senator",
+    "state": "NH",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Thune, John",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Udall, Mark",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 4600,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Wyden, Ron",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 1000,
+    "pac": "Boehringer Ingelheim Corp"
+  },
+  {
+    "delegate": "Shuster, Bill",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Continental Automotive Inc"
+  },
+  {
+    "delegate": "Nelson, Bill",
+    "type": "Senator",
+    "state": "FL",
+    "party": "D",
+    "value": 2000,
+    "pac": "Continental Automotive Inc"
+  },
+  {
+    "delegate": "Peters, Gary",
+    "type": "Senator",
+    "state": "MI",
+    "party": "D",
+    "value": 2000,
+    "pac": "Continental Automotive Inc"
+  },
+  {
+    "delegate": "Tillis, Thom",
+    "type": "Senator",
+    "state": "NC",
+    "party": "R",
+    "value": 1000,
+    "pac": "Continental Automotive Inc"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 2000,
+    "pac": "Continental Automotive Inc"
+  },
+  {
+    "delegate": "Coffman, Mike",
+    "type": "Representative",
+    "state": "CO",
+    "party": "R",
+    "value": 2500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Hensarling, Jeb",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 3500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Himes, Jim",
+    "type": "Representative",
+    "state": "CT",
+    "party": "D",
+    "value": 1500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Luetkemeyer, Blaine",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 2500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "McCarthy, Kevin",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Rothfus, Keith J",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Royce, Ed",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 5000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Schock, Aaron",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Stivers, Steve",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 5000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Van Hollen, Chris",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 0,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Alexander, Lamar",
+    "type": "Senator",
+    "state": "TN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Ayotte, Kelly",
+    "type": "Senator",
+    "state": "NH",
+    "party": "R",
+    "value": 2500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Blunt, Roy",
+    "type": "Senator",
+    "state": "MO",
+    "party": "R",
+    "value": 2500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Crapo, Mike",
+    "type": "Senator",
+    "state": "ID",
+    "party": "R",
+    "value": 3500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 2500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Kirk, Mark",
+    "type": "Senator",
+    "state": "IL",
+    "party": "R",
+    "value": 2500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "McConnell, Mitch",
+    "type": "Senator",
+    "state": "KY",
+    "party": "R",
+    "value": 10000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Portman, Rob",
+    "type": "Senator",
+    "state": "OH",
+    "party": "R",
+    "value": 15000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Reed, Jack",
+    "type": "Senator",
+    "state": "RI",
+    "party": "D",
+    "value": 2500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Thune, John",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 1500,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Deutsche Bank Securities"
+  },
+  {
+    "delegate": "Crowley, Joseph",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 5000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Garrett, Scott",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 4500,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Grimm, Michael",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 3000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Hensarling, Jeb",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 10000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Himes, Jim",
+    "type": "Representative",
+    "state": "CT",
+    "party": "D",
+    "value": 3000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "King, Pete",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 4000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Maloney, Carolyn B",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 4000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Meeks, Gregory W",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 4000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Royce, Ed",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 2000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Schock, Aaron",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Schweikert, David",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "R",
+    "value": 1000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Velazquez, Nydia M",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 2000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Waters, Maxine",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 5000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Gillibrand, Kirsten",
+    "type": "Senator",
+    "state": "NY",
+    "party": "D",
+    "value": 4000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Reed, Jack",
+    "type": "Senator",
+    "state": "RI",
+    "party": "D",
+    "value": 7000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Schumer, Charles E",
+    "type": "Senator",
+    "state": "NY",
+    "party": "D",
+    "value": 10000,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 2500,
+    "pac": "International Securities Exchange"
+  },
+  {
+    "delegate": "Barrow, John",
+    "type": "Representative",
+    "state": "GA",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Bass, Karen",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Bilirakis, Gus",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Bucshon, Larry",
+    "type": "Representative",
+    "state": "IN",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Butterfield, G K",
+    "type": "Representative",
+    "state": "NC",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Camp, Dave",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Cantor, Eric",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 5000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Castro, Joaquin",
+    "type": "Representative",
+    "state": "TX",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Christian-Christensen, Donna",
+    "type": "Representative",
+    "state": "VI",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Clarke, Yvette D",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Cleaver, Emanuel",
+    "type": "Representative",
+    "state": "MO",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Clyburn, James E",
+    "type": "Representative",
+    "state": "SC",
+    "party": "D",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Cohen, Steve",
+    "type": "Representative",
+    "state": "TN",
+    "party": "D",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Conyers, John Jr",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 6000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Cooper, Jim",
+    "type": "Representative",
+    "state": "TN",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Crenshaw, Ander",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "DeGette, Diana",
+    "type": "Representative",
+    "state": "CO",
+    "party": "D",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "DelBene, Suzan",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Deutch, Ted",
+    "type": "Representative",
+    "state": "FL",
+    "party": "D",
+    "value": 2500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Doyle, Mike",
+    "type": "Representative",
+    "state": "PA",
+    "party": "D",
+    "value": 5500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Ellmers, Renee",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Eshoo, Anna",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 5000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Franks, Trent",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Fudge, Marcia L",
+    "type": "Representative",
+    "state": "OH",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Goodlatte, Bob",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 4500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Grisham, Michelle Lujan",
+    "type": "Representative",
+    "state": "NM",
+    "party": "D",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Guthrie, Brett",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Hastings, Alcee L",
+    "type": "Representative",
+    "state": "FL",
+    "party": "D",
+    "value": 1500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Heck, Dennis",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Herrera Beutler, Jaime",
+    "type": "Representative",
+    "state": "WA",
+    "party": "R",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Holding, George",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Horsford, Steven",
+    "type": "Representative",
+    "state": "NV",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Hoyer, Steny H",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Hunter, Duncan D",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Issa, Darrell",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 2500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Jeffries, Hakeem",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Jenkins, Lynn",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Johnson, Bill",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Johnson, Hank",
+    "type": "Representative",
+    "state": "GA",
+    "party": "D",
+    "value": 4500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Kennedy, Joe III",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 1500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Kilmer, Derek",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Kuster, Ann Mclane",
+    "type": "Representative",
+    "state": "NH",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Lamborn, Douglas L",
+    "type": "Representative",
+    "state": "CO",
+    "party": "R",
+    "value": 1500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Larsen, Rick",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Latta, Robert E",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Lee, Barbara",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 5500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Lofgren, Zoe",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Long, Billy",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Lujan, Ben R",
+    "type": "Representative",
+    "state": "NM",
+    "party": "D",
+    "value": 7500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Matsui, Doris O",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 8000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "McKeon, Buck",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 1500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "McMorris Rodgers, Cathy",
+    "type": "Representative",
+    "state": "WA",
+    "party": "R",
+    "value": 7500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Meeks, Gregory W",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Moulton, Seth",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Mulvaney, Mick",
+    "type": "Representative",
+    "state": "SC",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Neal, Richard E",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Paulsen, Erik",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Pompeo, Mike",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 4500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Reichert, Dave",
+    "type": "Representative",
+    "state": "WA",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Richmond, Cedric",
+    "type": "Representative",
+    "state": "LA",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Rogers, Mike",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Rush, Bobby L",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Salmon, Matt",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Scalise, Steve",
+    "type": "Representative",
+    "state": "LA",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Schrader, Kurt",
+    "type": "Representative",
+    "state": "OR",
+    "party": "D",
+    "value": 6000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Sessions, Pete",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Sewell, Terri A",
+    "type": "Representative",
+    "state": "AL",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Shimkus, John M",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Simpson, Mike",
+    "type": "Representative",
+    "state": "ID",
+    "party": "R",
+    "value": 1500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Sinema, Kyrsten",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Smith, Adam",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 10000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Terry, Lee",
+    "type": "Representative",
+    "state": "NE",
+    "party": "R",
+    "value": 6000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Thompson, Bennie G",
+    "type": "Representative",
+    "state": "MS",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Thornberry, Mac",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Tiberi, Patrick J",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Turner, Michael R",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Upton, Fred",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 5000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Van Hollen, Chris",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Walden, Greg",
+    "type": "Representative",
+    "state": "OR",
+    "party": "R",
+    "value": 5000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Waters, Maxine",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Waxman, Henry",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 5000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Welch, Peter",
+    "type": "Representative",
+    "state": "VT",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Whitfield, Ed",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 4500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Alexander, Lamar",
+    "type": "Senator",
+    "state": "TN",
+    "party": "R",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Ayotte, Kelly",
+    "type": "Senator",
+    "state": "NH",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Barrasso, John A",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Begich, Mark",
+    "type": "Senator",
+    "state": "AK",
+    "party": "D",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Blumenthal, Richard",
+    "type": "Senator",
+    "state": "CT",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Blunt, Roy",
+    "type": "Senator",
+    "state": "MO",
+    "party": "R",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Booker, Cory",
+    "type": "Senator",
+    "state": "NJ",
+    "party": "D",
+    "value": 2500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Braley, Bruce",
+    "type": "Senator",
+    "state": "IA",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Cochran, Thad",
+    "type": "Senator",
+    "state": "MS",
+    "party": "R",
+    "value": 5000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Coons, Chris",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 3000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Daines, Steven",
+    "type": "Senator",
+    "state": "MT",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Durbin, Dick",
+    "type": "Senator",
+    "state": "IL",
+    "party": "D",
+    "value": 6000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Enzi, Mike",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 2500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Fischer, Deb",
+    "type": "Senator",
+    "state": "NE",
+    "party": "R",
+    "value": 2500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Flake, Jeff",
+    "type": "Senator",
+    "state": "AZ",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Franken, Al",
+    "type": "Senator",
+    "state": "MN",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Gardner, Cory",
+    "type": "Senator",
+    "state": "CO",
+    "party": "R",
+    "value": 4500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Graham, Lindsey",
+    "type": "Senator",
+    "state": "SC",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Heinrich, Martin",
+    "type": "Senator",
+    "state": "NM",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Heitkamp, Heidi",
+    "type": "Senator",
+    "state": "ND",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Hirono, Mazie K",
+    "type": "Senator",
+    "state": "HI",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Inhofe, James M",
+    "type": "Senator",
+    "state": "OK",
+    "party": "R",
+    "value": 7500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Johnson, Ron",
+    "type": "Senator",
+    "state": "WI",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "King, Angus",
+    "type": "Senator",
+    "state": "ME",
+    "party": "I",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Markey, Ed",
+    "type": "Senator",
+    "state": "MA",
+    "party": "D",
+    "value": 15000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "McCaskill, Claire",
+    "type": "Senator",
+    "state": "MO",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "McConnell, Mitch",
+    "type": "Senator",
+    "state": "KY",
+    "party": "R",
+    "value": 2500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Moran, Jerry",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Nelson, Bill",
+    "type": "Senator",
+    "state": "FL",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Pryor, Mark",
+    "type": "Senator",
+    "state": "AR",
+    "party": "D",
+    "value": 4000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Reed, Jack",
+    "type": "Senator",
+    "state": "RI",
+    "party": "D",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Reid, Harry",
+    "type": "Senator",
+    "state": "NV",
+    "party": "D",
+    "value": 7500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Roberts, Pat",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Rounds, Mike",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Rubio, Marco",
+    "type": "Senator",
+    "state": "FL",
+    "party": "R",
+    "value": 9000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Sasse, Ben",
+    "type": "Senator",
+    "state": "NE",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Schatz, Brian",
+    "type": "Senator",
+    "state": "HI",
+    "party": "D",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Schumer, Charles E",
+    "type": "Senator",
+    "state": "NY",
+    "party": "D",
+    "value": 3500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Scott, Tim",
+    "type": "Senator",
+    "state": "SC",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Shaheen, Jeanne",
+    "type": "Senator",
+    "state": "NH",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Tester, Jon",
+    "type": "Senator",
+    "state": "MT",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Thune, John",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 1500,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Tillis, Thom",
+    "type": "Senator",
+    "state": "NC",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Udall, Mark",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 4000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Udall, Tom",
+    "type": "Senator",
+    "state": "NM",
+    "party": "D",
+    "value": 2000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 6000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Wyden, Ron",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 6000,
+    "pac": "T-Mobile USA"
+  },
+  {
+    "delegate": "Benishek, Dan",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Black, Diane",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 1500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Blackburn, Marsha",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 5500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Brady, Kevin",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 7500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Camp, Dave",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 4000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Christian-Christensen, Donna",
+    "type": "Representative",
+    "state": "VI",
+    "party": "D",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Ellmers, Renee",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 2000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 3000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Griffin, Tim",
+    "type": "Representative",
+    "state": "AR",
+    "party": "R",
+    "value": 1500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Guthrie, Brett",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 4000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Harper, Gregg",
+    "type": "Representative",
+    "state": "MS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Hunter, Duncan D",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Jenkins, Lynn",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Kelly, Mike",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Lewis, John",
+    "type": "Representative",
+    "state": "GA",
+    "party": "D",
+    "value": 2500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Lujan, Ben R",
+    "type": "Representative",
+    "state": "NM",
+    "party": "D",
+    "value": 3000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Marino, Tom",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "McDermott, Jim",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 4000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Neal, Richard E",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 2500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Pitts, Joe",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Pompeo, Mike",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Reed, Tom",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 2000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Roybal-Allard, Lucille",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Ryan, Paul",
+    "type": "Representative",
+    "state": "WI",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Schock, Aaron",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Shimkus, John M",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 1500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Smith, Adrian",
+    "type": "Representative",
+    "state": "NE",
+    "party": "R",
+    "value": 3000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Young, Todd",
+    "type": "Representative",
+    "state": "IN",
+    "party": "R",
+    "value": 1500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Ayotte, Kelly",
+    "type": "Senator",
+    "state": "NH",
+    "party": "R",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Baucus, Max",
+    "type": "Senator",
+    "state": "MT",
+    "party": "D",
+    "value": 3000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Begich, Mark",
+    "type": "Senator",
+    "state": "AK",
+    "party": "D",
+    "value": 4500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Bennet, Michael F",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 8000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Cassidy, Bill",
+    "type": "Senator",
+    "state": "LA",
+    "party": "R",
+    "value": 10000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Coats, Dan",
+    "type": "Senator",
+    "state": "IN",
+    "party": "R",
+    "value": 2000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Coons, Chris",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 2500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 4500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Enzi, Mike",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Fischer, Deb",
+    "type": "Senator",
+    "state": "NE",
+    "party": "R",
+    "value": 2000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Gingrey, Phil",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Grassley, Chuck",
+    "type": "Senator",
+    "state": "IA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 7500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Markey, Ed",
+    "type": "Senator",
+    "state": "MA",
+    "party": "D",
+    "value": 15000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Murray, Patty",
+    "type": "Senator",
+    "state": "WA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Peters, Gary",
+    "type": "Senator",
+    "state": "MI",
+    "party": "D",
+    "value": 3000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Portman, Rob",
+    "type": "Senator",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Pryor, Mark",
+    "type": "Senator",
+    "state": "AR",
+    "party": "D",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Schumer, Charles E",
+    "type": "Senator",
+    "state": "NY",
+    "party": "D",
+    "value": 3000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Scott, Tim",
+    "type": "Senator",
+    "state": "SC",
+    "party": "R",
+    "value": 7000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Shaheen, Jeanne",
+    "type": "Senator",
+    "state": "NH",
+    "party": "D",
+    "value": 7500,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Thune, John",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 2000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Udall, Mark",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 9000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Udall, Tom",
+    "type": "Senator",
+    "state": "NM",
+    "party": "D",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 4000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Wyden, Ron",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 5000,
+    "pac": "Fresenius Medical Care North America"
+  },
+  {
+    "delegate": "Boehner, John",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 2500,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Costello, Ryan",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Davis, Rodney",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 4000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "DeFazio, Peter",
+    "type": "Representative",
+    "state": "OR",
+    "party": "D",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Dent, Charlie",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 4000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Flores, Bill",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Gibson, Chris",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 7500,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Granger, Kay",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "LaMalfa, Doug",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 3000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Lipinski, Daniel",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Marchant, Kenny",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Matheson, Jim",
+    "type": "Representative",
+    "state": "UT",
+    "party": "D",
+    "value": 2500,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "McCarthy, Kevin",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Perry, Scott",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Rahall, Nick",
+    "type": "Representative",
+    "state": "WV",
+    "party": "D",
+    "value": 2000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Sessions, Pete",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Shuster, Bill",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 5000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Simitian, S Joseph",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Stefanik, Elise",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Whitfield, Ed",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 4500,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Young, Todd",
+    "type": "Representative",
+    "state": "IN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Blunt, Roy",
+    "type": "Senator",
+    "state": "MO",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Inhofe, James M",
+    "type": "Senator",
+    "state": "OK",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Vitter, David",
+    "type": "Senator",
+    "state": "LA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Lehigh Hanson"
+  },
+  {
+    "delegate": "Kirkpatrick, Ann",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "D",
+    "value": 1000,
+    "pac": "Dial Corp"
+  },
+  {
+    "delegate": "Lance, Leonard",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 1000,
+    "pac": "Dial Corp"
+  },
+  {
+    "delegate": "Pallone, Frank Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 1000,
+    "pac": "Dial Corp"
+  },
+  {
+    "delegate": "Salmon, Matt",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "R",
+    "value": 1000,
+    "pac": "Dial Corp"
+  },
+  {
+    "delegate": "Sinema, Kyrsten",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "D",
+    "value": 1000,
+    "pac": "Dial Corp"
+  },
+  {
+    "delegate": "Pryor, Mark",
+    "type": "Senator",
+    "state": "AR",
+    "party": "D",
+    "value": 1000,
+    "pac": "Dial Corp"
+  },
+  {
+    "delegate": "Becerra, Xavier",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 5000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Bilirakis, Gus",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Blackburn, Marsha",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 5000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Burgess, Michael",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Camp, Dave",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 5000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Capuano, Michael E",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 3000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Clark, Katherine",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "DeLauro, Rosa L",
+    "type": "Representative",
+    "state": "CT",
+    "party": "D",
+    "value": 2500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Ellmers, Renee",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 2000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Jenkins, Lynn",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 0,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Keating, Bill",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 10000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Kennedy, Joe III",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 2000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Kinzinger, Adam",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "McGovern, James P",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 3500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Murphy, Tim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Neal, Richard E",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 5000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Pompeo, Mike",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Renacci, Jim",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Schultz, Debbie Wasserman",
+    "type": "Representative",
+    "state": "FL",
+    "party": "D",
+    "value": 0,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Schwartz, Allyson",
+    "type": "Representative",
+    "state": "PA",
+    "party": "D",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Shimkus, John M",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Tierney, John F",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 5000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Tsongas, Niki",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 2000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Wagner, Ann L",
+    "type": "Representative",
+    "state": "MO",
+    "party": "R",
+    "value": 1500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Yoder, Kevin",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 2000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Barrasso, John A",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 2000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Bennet, Michael F",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Enzi, Mike",
+    "type": "Senator",
+    "state": "WY",
+    "party": "R",
+    "value": 4500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Gillibrand, Kirsten",
+    "type": "Senator",
+    "state": "NY",
+    "party": "D",
+    "value": 5000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Gingrey, Phil",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 2500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 7500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Hatch, Orrin G",
+    "type": "Senator",
+    "state": "UT",
+    "party": "R",
+    "value": 4500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Kerry, John",
+    "type": "Senator",
+    "state": "MA",
+    "party": "D",
+    "value": 5000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Landrieu, Mary L",
+    "type": "Senator",
+    "state": "LA",
+    "party": "D",
+    "value": 2500,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Markey, Ed",
+    "type": "Senator",
+    "state": "MA",
+    "party": "D",
+    "value": 8000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Reid, Harry",
+    "type": "Senator",
+    "state": "NV",
+    "party": "D",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Roberts, Pat",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Wyden, Ron",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 1000,
+    "pac": "EMD Serono Inc"
+  },
+  {
+    "delegate": "Barrow, John",
+    "type": "Representative",
+    "state": "GA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Bridenstine, James",
+    "type": "Representative",
+    "state": "OK",
+    "party": "R",
+    "value": 2000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "DeFazio, Peter",
+    "type": "Representative",
+    "state": "OR",
+    "party": "D",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Frelinghuysen, Rodney",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Green, Gene",
+    "type": "Representative",
+    "state": "TX",
+    "party": "D",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Huelskamp, Tim",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Kaptur, Marcy",
+    "type": "Representative",
+    "state": "OH",
+    "party": "D",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Lance, Leonard",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 10000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "LoBiondo, Frank A",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Marino, Tom",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "McCaul, Michael",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "McKinley, David",
+    "type": "Representative",
+    "state": "WV",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Meehan, Patrick",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 250,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Mullin, Markwayne",
+    "type": "Representative",
+    "state": "OK",
+    "party": "R",
+    "value": 2000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Olson, Pete",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Pallone, Frank Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Pascrell, Bill Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Price, Tom",
+    "type": "Representative",
+    "state": "GA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Reed, Tom",
+    "type": "Representative",
+    "state": "NY",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Shuster, Bill",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Simpson, Mike",
+    "type": "Representative",
+    "state": "ID",
+    "party": "R",
+    "value": 2000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Swalwell, Eric",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 2000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Thornberry, Mac",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Tonko, Paul",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Woodall, Rob",
+    "type": "Representative",
+    "state": "GA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Blumenthal, Richard",
+    "type": "Senator",
+    "state": "CT",
+    "party": "D",
+    "value": 5000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Booker, Cory",
+    "type": "Senator",
+    "state": "NJ",
+    "party": "D",
+    "value": 2000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Cochran, Thad",
+    "type": "Senator",
+    "state": "MS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Inhofe, James M",
+    "type": "Senator",
+    "state": "OK",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Isakson, Johnny",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 5000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Lankford, James",
+    "type": "Senator",
+    "state": "OK",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Manchin, Joe",
+    "type": "Senator",
+    "state": "WV",
+    "party": "D",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Murkowski, Lisa",
+    "type": "Senator",
+    "state": "AK",
+    "party": "R",
+    "value": 5000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Murphy, Christopher S",
+    "type": "Senator",
+    "state": "CT",
+    "party": "D",
+    "value": 5000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Perdue, David",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Reid, Harry",
+    "type": "Senator",
+    "state": "NV",
+    "party": "D",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Roberts, Pat",
+    "type": "Senator",
+    "state": "KS",
+    "party": "R",
+    "value": 2500,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 7600,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Udall, Mark",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 1000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Wyden, Ron",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 5000,
+    "pac": "Linde North America"
+  },
+  {
+    "delegate": "Barber, Ron",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "D",
+    "value": 2000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Barrow, John",
+    "type": "Representative",
+    "state": "GA",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Bera, Ami",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Brownley, Julia",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Clyburn, James E",
+    "type": "Representative",
+    "state": "SC",
+    "party": "D",
+    "value": 5000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Comstock, Barbara",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Connolly, Gerry",
+    "type": "Representative",
+    "state": "VA",
+    "party": "D",
+    "value": 5000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "DelBene, Suzan",
+    "type": "Representative",
+    "state": "WA",
+    "party": "D",
+    "value": 3000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Duckworth, Tammy",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Huizenga, Bill",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 2000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Issa, Darrell",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Jeffries, Hakeem",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Keating, Bill",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Kennedy, Joe III",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Kuster, Ann Mclane",
+    "type": "Representative",
+    "state": "NH",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Langevin, Jim",
+    "type": "Representative",
+    "state": "RI",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Lofgren, Zoe",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 2000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Lujan, Ben R",
+    "type": "Representative",
+    "state": "NM",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Matsui, Doris O",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "McCarthy, Kevin",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "McMorris Rodgers, Cathy",
+    "type": "Representative",
+    "state": "WA",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Meehan, Patrick",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 5000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Neal, Richard E",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Paulsen, Erik",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 3000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Peters, Scott",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 4000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Rogers, Mike",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Ruppersberger, Dutch",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 5000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Sinema, Kyrsten",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Smith, Lamar",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Speier, Jackie",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Stewart, Chris",
+    "type": "Representative",
+    "state": "UT",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Upton, Fred",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Zinke, Ryan K",
+    "type": "Representative",
+    "state": "MT",
+    "party": "R",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Begich, Mark",
+    "type": "Senator",
+    "state": "AK",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Blumenthal, Richard",
+    "type": "Senator",
+    "state": "CT",
+    "party": "D",
+    "value": 3500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Carper, Tom",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Coons, Chris",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 3500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Cruz, Ted",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Daines, Steven",
+    "type": "Senator",
+    "state": "MT",
+    "party": "R",
+    "value": 5000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Klobuchar, Amy",
+    "type": "Senator",
+    "state": "MN",
+    "party": "D",
+    "value": 2600,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Leahy, Patrick",
+    "type": "Senator",
+    "state": "VT",
+    "party": "D",
+    "value": 8500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Markey, Ed",
+    "type": "Senator",
+    "state": "MA",
+    "party": "D",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "McConnell, Mitch",
+    "type": "Senator",
+    "state": "KY",
+    "party": "R",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Pryor, Mark",
+    "type": "Senator",
+    "state": "AR",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 5000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Udall, Mark",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 1000,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Whitehouse, Sheldon",
+    "type": "Senator",
+    "state": "RI",
+    "party": "D",
+    "value": 2500,
+    "pac": "SAP America"
+  },
+  {
+    "delegate": "Bera, Ami",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 6500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Black, Diane",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Blackburn, Marsha",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Boehner, John",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 5000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Boyle, Brendan",
+    "type": "Representative",
+    "state": "PA",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Brown, Corrine",
+    "type": "Representative",
+    "state": "FL",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Camp, Dave",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Cantor, Eric",
+    "type": "Representative",
+    "state": "VA",
+    "party": "R",
+    "value": 7000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Capps, Lois",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Carney, John",
+    "type": "Representative",
+    "state": "DE",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Chabot, Steve",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Costello, Ryan",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Crenshaw, Ander",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Denham, Jeff",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 7000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Dent, Charlie",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 3500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Dingell, Debbie",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Duckworth, Tammy",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 5500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Duncan, John J Jr",
+    "type": "Representative",
+    "state": "TN",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Ellmers, Renee",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 5000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Engel, Eliot L",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Eshoo, Anna",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Fitzpatrick, Michael G",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Foster, Bill",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Frelinghuysen, Rodney",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Garamendi, John",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 6500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Gerlach, Jim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 4000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Harper, Gregg",
+    "type": "Representative",
+    "state": "MS",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Holding, George",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 4000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Holt, Rush",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Hoyer, Steny H",
+    "type": "Representative",
+    "state": "MD",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Hudson, Richard",
+    "type": "Representative",
+    "state": "NC",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Israel, Steve",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Johnson, Bill",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Kind, Ron",
+    "type": "Representative",
+    "state": "WI",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Kuster, Ann Mclane",
+    "type": "Representative",
+    "state": "NH",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Lance, Leonard",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "R",
+    "value": 6000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Latham, Tom",
+    "type": "Representative",
+    "state": "IA",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Levin, Sander",
+    "type": "Representative",
+    "state": "MI",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Lipinski, Daniel",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Lowey, Nita M",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 4000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Marchant, Kenny",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Massie, Thomas",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Matsui, Doris O",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 9000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "McCarthy, Kevin",
+    "type": "Representative",
+    "state": "CA",
+    "party": "R",
+    "value": 5000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "McCaul, Michael",
+    "type": "Representative",
+    "state": "TX",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "McGovern, James P",
+    "type": "Representative",
+    "state": "MA",
+    "party": "D",
+    "value": 500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Meehan, Patrick",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 6000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Mica, John L",
+    "type": "Representative",
+    "state": "FL",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Murphy, Tim",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Napolitano, Grace",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Norton, Eleanor Holmes",
+    "type": "Representative",
+    "state": "DC",
+    "party": "D",
+    "value": 2400,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Pallone, Frank Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 6500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Pascrell, Bill Jr",
+    "type": "Representative",
+    "state": "NJ",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Pastor, Ed",
+    "type": "Representative",
+    "state": "AZ",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Paulsen, Erik",
+    "type": "Representative",
+    "state": "MN",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Pitts, Joe",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 6500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Price, David",
+    "type": "Representative",
+    "state": "NC",
+    "party": "D",
+    "value": 5500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Price, Tom",
+    "type": "Representative",
+    "state": "GA",
+    "party": "R",
+    "value": 4500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Rahall, Nick",
+    "type": "Representative",
+    "state": "WV",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Reichert, Dave",
+    "type": "Representative",
+    "state": "WA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Rogers, Mike",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Roskam, Peter",
+    "type": "Representative",
+    "state": "IL",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Ryan, Paul",
+    "type": "Representative",
+    "state": "WI",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Ryan, Tim",
+    "type": "Representative",
+    "state": "OH",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Schneider, Brad",
+    "type": "Representative",
+    "state": "IL",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Schwartz, Allyson",
+    "type": "Representative",
+    "state": "PA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Shuster, Bill",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 8500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Thompson, Glenn",
+    "type": "Representative",
+    "state": "PA",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Thompson, Mike",
+    "type": "Representative",
+    "state": "CA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Tonko, Paul",
+    "type": "Representative",
+    "state": "NY",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Upton, Fred",
+    "type": "Representative",
+    "state": "MI",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Welch, Peter",
+    "type": "Representative",
+    "state": "VT",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Wenstrup, Brad",
+    "type": "Representative",
+    "state": "OH",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Whitfield, Ed",
+    "type": "Representative",
+    "state": "KY",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Yoder, Kevin",
+    "type": "Representative",
+    "state": "KS",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Alexander, Lamar",
+    "type": "Senator",
+    "state": "TN",
+    "party": "R",
+    "value": 5000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Baucus, Max",
+    "type": "Senator",
+    "state": "MT",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Begich, Mark",
+    "type": "Senator",
+    "state": "AK",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Blunt, Roy",
+    "type": "Senator",
+    "state": "MO",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Booker, Cory",
+    "type": "Senator",
+    "state": "NJ",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Cochran, Thad",
+    "type": "Senator",
+    "state": "MS",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Collins, Susan M",
+    "type": "Senator",
+    "state": "ME",
+    "party": "R",
+    "value": 2500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Coons, Chris",
+    "type": "Senator",
+    "state": "DE",
+    "party": "D",
+    "value": 5000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Cornyn, John",
+    "type": "Senator",
+    "state": "TX",
+    "party": "R",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Durbin, Dick",
+    "type": "Senator",
+    "state": "IL",
+    "party": "D",
+    "value": 3500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Graham, Lindsey",
+    "type": "Senator",
+    "state": "SC",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Grassley, Chuck",
+    "type": "Senator",
+    "state": "IA",
+    "party": "R",
+    "value": 3500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Hagan, Kay R",
+    "type": "Senator",
+    "state": "NC",
+    "party": "D",
+    "value": 5500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Isakson, Johnny",
+    "type": "Senator",
+    "state": "GA",
+    "party": "R",
+    "value": 4000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Landrieu, Mary L",
+    "type": "Senator",
+    "state": "LA",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Lankford, James",
+    "type": "Senator",
+    "state": "OK",
+    "party": "R",
+    "value": 500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Markey, Ed",
+    "type": "Senator",
+    "state": "MA",
+    "party": "D",
+    "value": 6000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "McConnell, Mitch",
+    "type": "Senator",
+    "state": "KY",
+    "party": "R",
+    "value": 5000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Merkley, Jeff",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Portman, Rob",
+    "type": "Senator",
+    "state": "OH",
+    "party": "R",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Reed, Jack",
+    "type": "Senator",
+    "state": "RI",
+    "party": "D",
+    "value": 2500,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Reid, Harry",
+    "type": "Senator",
+    "state": "NV",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Shaheen, Jeanne",
+    "type": "Senator",
+    "state": "NH",
+    "party": "D",
+    "value": 4000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Thune, John",
+    "type": "Senator",
+    "state": "SD",
+    "party": "R",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Toomey, Pat",
+    "type": "Senator",
+    "state": "PA",
+    "party": "R",
+    "value": 6000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Udall, Mark",
+    "type": "Senator",
+    "state": "CO",
+    "party": "D",
+    "value": 2000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Udall, Tom",
+    "type": "Senator",
+    "state": "NM",
+    "party": "D",
+    "value": 1000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Warner, Mark",
+    "type": "Senator",
+    "state": "VA",
+    "party": "D",
+    "value": 3000,
+    "pac": "Siemens Corp"
+  },
+  {
+    "delegate": "Wyden, Ron",
+    "type": "Senator",
+    "state": "OR",
+    "party": "D",
+    "value": 4000,
+    "pac": "Siemens Corp"
+  }
+]
