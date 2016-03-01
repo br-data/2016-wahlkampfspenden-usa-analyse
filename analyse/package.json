@@ -1,0 +1,10 @@
+{
+  "name": "wahlkampfspenden-analyse",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "fuzzy": "^0.1.1",
+    "json2csv": "^3.2.0",
+    "request": "^2.69.0"
+  }
+}
